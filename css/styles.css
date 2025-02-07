@@ -1,3 +1,19 @@
 * {
     font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+.description {
+    color: lightcoral;
+}
+
+.equipment {
+    color:teal;
+}
+
+.ingredients {
+    color: lightblue;
+}
+
+.instructions {
+    color: lightgreen;
+}
